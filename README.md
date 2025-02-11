@@ -1,3 +1,4 @@
 # storket-market
 this is stock market
-Auther Rit sarkar
+<br>
+Author Rit sarkar
